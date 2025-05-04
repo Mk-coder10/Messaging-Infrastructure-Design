@@ -64,7 +64,7 @@ Modifiability is important to allow future changes without disrupting the system
 ## Full Report
 
 The complete project report, including diagrams and utility tree analysis, is available here:  
-
+https://github.com/Mk-coder10/Messaging-Infrastructure-Design/blob/14124ea5869a17dc131521e2b98b580cf4c74096/Messaging%20Design%20Project.pdf
 
 ---
 
